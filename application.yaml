@@ -9,8 +9,6 @@ logging:
     com.example.microservices.*: DEBUG
 
 spring:
-  application:
-    name: batch-service
   datasource:
     username: root
     password: password
